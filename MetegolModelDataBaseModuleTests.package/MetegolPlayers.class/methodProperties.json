@@ -1,13 +1,19 @@
 {
 	"class" : {
-		 },
+		"conchita" : "gms 4/23/2016 18:09",
+		"getPlayer:" : "gms 4/23/2016 18:09",
+		"manotas" : "gms 4/23/2016 18:10",
+		"pipi" : "gms 4/23/2016 18:10",
+		"players" : "gms 4/23/2016 18:11",
+		"veggie" : "gms 4/23/2016 18:11" },
 	"instance" : {
-		"buildAPlayerFromARow:" : "gms 5/1/2016 23:29",
+		"builPlayerNamed:alsoKnowAs:" : "gms 5/2/2016 13:45",
 		"conchita" : "gms 4/23/2016 17:39",
-		"get:" : "gms 5/1/2016 23:28",
+		"get:" : "gms 5/2/2016 14:37",
 		"initialize" : "gms 5/1/2016 22:52",
-		"insert:" : "gms 5/1/2016 23:30",
+		"insert:" : "gms 5/2/2016 14:13",
 		"manotas" : "gms 4/23/2016 17:40",
 		"pipi" : "gms 4/23/2016 17:38",
+		"players" : "gms 4/23/2016 18:04",
 		"rows" : "gms 5/1/2016 23:23",
 		"veggie" : "gms 4/23/2016 17:37" } }

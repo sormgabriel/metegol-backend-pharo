@@ -7,4 +7,4 @@ aPlayer aliases do:[ :alias |
 row at:#playerID put: aPlayer playerID. 
 row at:#name put:aPlayer playerName.
 row at:#alias put: alias  ].
-rows add: row 
+self rows add: row; yourself 
