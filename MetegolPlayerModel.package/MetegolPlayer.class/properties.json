@@ -1,0 +1,15 @@
+{
+	"category" : "MetegolPlayerModel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gms 4/16/2016 16:29",
+	"instvars" : [
+		"name",
+		"aliases" ],
+	"name" : "MetegolPlayer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

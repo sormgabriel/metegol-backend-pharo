@@ -1,0 +1,17 @@
+{
+	"category" : "MetegolTeamModel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"metegolPlayer1",
+		"metegolPlayer2",
+		"player1",
+		"player2" ],
+	"name" : "MetegolTeam",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

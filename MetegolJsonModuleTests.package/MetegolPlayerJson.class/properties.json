@@ -1,0 +1,14 @@
+{
+	"category" : "MetegolJsonModuleTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MetegolPlayerJson",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
