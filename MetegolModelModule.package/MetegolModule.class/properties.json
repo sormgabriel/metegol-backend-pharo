@@ -1,16 +1,13 @@
 {
-	"category" : "MetegolTeamModel",
+	"category" : "MetegolModelModule",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"player1",
-		"player2",
-		"score",
-		"players" ],
-	"name" : "MetegolTeam",
+		 ],
+	"name" : "MetegolModule",
 	"pools" : [
 		 ],
 	"super" : "Object",

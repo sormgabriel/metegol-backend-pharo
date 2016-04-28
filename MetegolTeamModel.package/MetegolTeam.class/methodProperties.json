@@ -1,7 +1,15 @@
 {
 	"class" : {
-		"composedBy:and:" : "gms 4/16/2016 20:22" },
+		"composedBy:andScore:" : "gms 4/22/2016 23:08",
+		"neoJsonMapping:" : "gms 4/21/2016 10:46" },
 	"instance" : {
-		"initializeWith:and:" : "gms 4/16/2016 20:23",
+		"asDictionary" : "gms 4/21/2016 10:50",
+		"getPlayer1From:" : "gms 4/22/2016 23:13",
+		"getPlayer2From:" : "gms 4/22/2016 23:14",
+		"initializeTeamWith:andScore:" : "gms 4/23/2016 18:29",
 		"player1" : "gms 4/16/2016 20:23",
-		"player2" : "gms 4/16/2016 20:24" } }
+		"player1:" : "gms 4/21/2016 10:21",
+		"player2" : "gms 4/16/2016 20:24",
+		"player2:" : "gms 4/21/2016 10:21",
+		"players:" : "gms 4/23/2016 18:08",
+		"score:" : "gms 4/22/2016 23:16" } }

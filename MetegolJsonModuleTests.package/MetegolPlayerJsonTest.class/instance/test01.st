@@ -1,14 +1,10 @@
 as yet unclassified
 test01
-|input player1 player2 winnerTeam |
-player1 := input:='{"playerName":"Gabriel Sor",
-   		   "aliases":["veggie","super veggie"]
-			  }'.
-player2 := input:='{"playerName":"Alvaro Piorno",
-   		   "aliases":["pipi","adolf pipi"]
-			  }'.
+|input  winnerTeam players |
+
+players := #(1 2).
 input:='{
-			 "players":[', player1 , ',',player2 ,'],
-			  "score":5 }'.
-	winnerTeam := MetegolTeam composedBy: self veggie and: self pipi. 
-	self assert: (self jsonTeam  value: input) equals: winnerTeam   
+			 "players": [1,2], 
+			  "score":5}'.
+	winnerTeam := MetegolTeam composedBy: players andScore: 5. 
+	self assert: (self neoJsonTeam  value: input) player1  equals: winnerTeam player1     

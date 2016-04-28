@@ -1,0 +1,14 @@
+{
+	"category" : "MetegolGameTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"players" ],
+	"name" : "MetegolPlayers",
+	"pools" : [
+		 ],
+	"super" : "Array",
+	"type" : "variable" }
