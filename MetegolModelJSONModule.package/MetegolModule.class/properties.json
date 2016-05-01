@@ -1,0 +1,14 @@
+{
+	"category" : "MetegolModelJSONModule",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MetegolModule",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
