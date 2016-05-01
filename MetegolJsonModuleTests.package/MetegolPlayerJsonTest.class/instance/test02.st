@@ -2,9 +2,9 @@ as yet unclassified
 test02
 |input veggie |
 veggie := MetegolPlayer playerName:'Gabriel Sor'  playerAliases:(OrderedCollection  new add:'veggie'; add: 'super veggie'; yourself) asArray  .
-input:='{"playerName":"Gabriel Sor",
+input:='{"name":"Gabriel Sor",
    		   "aliases":["veggie","super veggie"]
 			  }'.
 	
-	self assert: (self jsonPlayer  value: input) equals: veggie   
+	self assert: (MetegolModule playerFrom:input) equals: veggie   
 	
