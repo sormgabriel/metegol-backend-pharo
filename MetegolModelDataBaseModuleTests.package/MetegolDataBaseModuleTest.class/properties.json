@@ -1,0 +1,14 @@
+{
+	"category" : "MetegolModelDataBaseModuleTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MetegolDataBaseModuleTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

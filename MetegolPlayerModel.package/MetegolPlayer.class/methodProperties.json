@@ -6,8 +6,13 @@
 		"=" : "gms 4/21/2016 06:38",
 		"aliases" : "gms 4/16/2016 16:43",
 		"aliases:" : "gms 4/17/2016 22:32",
+		"asciiFromAliases" : "gms 5/1/2016 21:41",
+		"asciiFromName" : "gms 5/1/2016 21:43",
+		"asciiFromString:" : "gms 5/1/2016 21:43",
 		"hash" : "gms 4/21/2016 06:43",
 		"initializePlayerNamed:alsoKnowAs:" : "gms 4/23/2016 18:22",
 		"initializePlayerWith:and:" : "gms 4/16/2016 16:35",
+		"playerID" : "gms 5/1/2016 23:14",
+		"playerId" : "gms 5/1/2016 21:44",
 		"playerName" : "gms 4/16/2016 16:42",
 		"playerName:" : "gms 4/17/2016 22:35" } }

@@ -9,6 +9,7 @@
 		"neoJsonPlayer" : "gms 4/21/2016 10:30",
 		"neoJsonTeam" : "gms 4/23/2016 19:01",
 		"pipi" : "gms 4/22/2016 22:53",
-		"test01" : "gms 4/23/2016 18:33",
-		"test02" : "gms 5/1/2016 12:11",
+		"players" : "gms 5/1/2016 22:12",
+		"testBuildAMetegolPlayerFromAJSON" : "gms 5/1/2016 12:31",
+		"testBuildingAMetegolGameFromAJSON" : "gms 5/1/2016 13:20",
 		"veggie" : "gms 4/21/2016 10:11" } }

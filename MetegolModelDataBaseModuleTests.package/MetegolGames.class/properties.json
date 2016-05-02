@@ -1,0 +1,14 @@
+{
+	"category" : "MetegolModelDataBaseModuleTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rows" ],
+	"name" : "MetegolGames",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

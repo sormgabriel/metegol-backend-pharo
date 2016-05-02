@@ -1,0 +1,16 @@
+{
+	"category" : "MetegolModelJSONModule",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"date",
+		"team1",
+		"team2" ],
+	"name" : "MetegolJSONGame",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
