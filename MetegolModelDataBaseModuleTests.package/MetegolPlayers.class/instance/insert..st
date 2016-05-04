@@ -6,5 +6,5 @@ row := Dictionary new.
 aPlayer aliases do:[ :alias |
 row at:#playerID put: aPlayer playerID. 
 row at:#name put:aPlayer playerName.
-row at:#alias put: alias  ].
-self rows add: row; yourself 
+row at:#alias put: alias.
+self rows add: row; yourself   ].

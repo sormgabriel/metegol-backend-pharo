@@ -8,10 +8,11 @@
 		"veggie" : "gms 4/23/2016 18:11" },
 	"instance" : {
 		"builPlayerNamed:alsoKnowAs:" : "gms 5/2/2016 13:45",
+		"buildAPlayerFromARow:" : "gms 5/2/2016 17:03:43",
 		"conchita" : "gms 4/23/2016 17:39",
 		"get:" : "gms 5/2/2016 14:37",
 		"initialize" : "gms 5/1/2016 22:52",
-		"insert:" : "gms 5/2/2016 14:13",
+		"insert:" : "gms 5/2/2016 22:15",
 		"manotas" : "gms 4/23/2016 17:40",
 		"pipi" : "gms 4/23/2016 17:38",
 		"players" : "gms 4/23/2016 18:04",
