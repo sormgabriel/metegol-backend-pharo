@@ -1,0 +1,14 @@
+{
+	"category" : "MetegolDependencies",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MetegolDependencies",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
