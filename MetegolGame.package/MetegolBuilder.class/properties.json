@@ -1,0 +1,14 @@
+{
+	"category" : "MetegolGame",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MetegolBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

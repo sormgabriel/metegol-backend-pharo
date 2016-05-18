@@ -1,0 +1,16 @@
+{
+	"category" : "MetegolGame",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"dateOfGame",
+		"team1",
+		"team2" ],
+	"name" : "MetegolGame",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
